@@ -1,6 +1,6 @@
 # NeuralNetFromScratch
 
-When learning about machine learning and neural networks, it is a good exercise to write your own neural network using only numpy (no machine learning libraries like PyTorch, TensorFlow, etc.). 
+When learning about machine learning and neural networks, it is a good exercise to write your own neural network using only NumPy (no machine learning libraries like PyTorch, TensorFlow, etc.). 
 
 Files: 
 - The train_and_test file is a Jupyter Notebook to actually run the network. 
