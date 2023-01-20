@@ -10,4 +10,4 @@ Files:
 Here's mine from a while back, recently updated for Python 3.11! 
 I used the classic MNIST handwritten numbers data set, and wrote a simple yet modifiable NN that classifies which number was handwritten in the image. 
 
-Feel free to add layers, change the number of epochs, batch sizes, or the learning rate to see if you can get some better performance... I have honestly not spent much time tuning this model at all. It was written more for understanding than anything! 
+Feel free to add layers, change the number of epochs, batch sizes, or the learning rate to see if you can get some better performance... I have honestly not spent much time tuning this model at all. It was written more for my understanding and as a tutorial for my classmates who were also interested, rather than for actual performance!
