@@ -1,3 +1,9 @@
+# Radial Function Experiment 
+
+Small MLPs without sufficiently wide layers often have difficulty approximating some radial/circular functions, such as one of the form $f(x,y) = \sqrt{x^2 + y^2}$. This notebook builds a basic MLP in PyTorch to approximate such a function, and has some cool visuals to demonstrate the performance of the net.
+
+All of this should be in one small Jupyter Notebook. 
+
 # NeuralNetFromScratch
 
 When learning about machine learning and neural networks, it is a good exercise to write your own neural network using only NumPy (no machine learning libraries like PyTorch, TensorFlow, etc.). 
