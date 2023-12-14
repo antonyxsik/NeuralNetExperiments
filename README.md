@@ -2,7 +2,6 @@
 
 Small MLPs without sufficiently wide layers often have difficulty approximating some radial/circular functions, such as one of the form $f(x,y) = \sqrt{x^2 + y^2}$. This notebook builds a basic MLP in PyTorch to approximate such a function, and has some cool visuals to demonstrate the performance of the net.
 
-All of this should be in one small Jupyter Notebook. 
 
 # NeuralNetFromScratch
 
